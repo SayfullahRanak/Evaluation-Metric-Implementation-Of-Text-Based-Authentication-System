@@ -9,8 +9,12 @@ import java.text.DecimalFormat;
 
 /**
  *
- * @author ranak
+ * @author md sayfullah al noman ranak
+ * Student, Masters by research
+ * University Malaysia Pahang (UMP)
+ * email : sayfullahranak1993@gmail.com
  */
+
 public class MetricCalculations {
     
     
